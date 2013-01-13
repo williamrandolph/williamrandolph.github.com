@@ -10,8 +10,11 @@ li {
   text-align:left;
 }
 
+
 .wrapper{
   width:820px;
+  margin-left: auto ;
+  margin-right: auto ;
 }
 
 /* sidebar */
@@ -26,5 +29,4 @@ li {
 section {
   width:650px;
   float:left;
-  padding-bottom:50px;
 }
