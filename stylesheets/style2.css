@@ -6,11 +6,15 @@ body {
     line-height:16pt;
 }
 
+li {
+  text-align:left;
+}
+
 .wrapper{
   width:820px;
 }
 
-/* header */
+/* sidebar */
 
 .sidebar {
   width:170px;
