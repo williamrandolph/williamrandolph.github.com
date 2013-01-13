@@ -14,3 +14,7 @@ description: GitHub Blog
 </ol><h3>Why blog?</h3>
 
 <p>If you're not suspicious about your impulses to tell the world what you're thinking, maybe you should be. Sometimes I consider heading down to Kinko's, printing out twenty copies of some handwritten newsletter, and sending it off to those I think might care. On the other hand, there's that possibility of a kindred spirit stumbling across your writing.</p>
+
+{% assign posts = site.posts %}
+{% assign listing_limit = 3 %}
+{% include post-listing.html %}
