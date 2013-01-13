@@ -30,3 +30,13 @@ section {
   width:650px;
   float:left;
 }
+
+section p {
+  text-align:left;
+}
+
+section img { 
+  text-align:center;
+  margin-top:10px;
+  margin-bottom:10px
+}
