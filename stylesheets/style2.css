@@ -24,6 +24,11 @@ li {
   float:right;
 }
 
+h1.sidebar a {
+  text-decoration:none;
+  color:#404040;
+}
+
 /* Section - for main page content */
 
 section {
