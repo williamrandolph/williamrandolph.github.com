@@ -24,22 +24,22 @@ li {
   float:right;
 }
 
-h1.sidebar a:link,a:visited {
+h1.sidebar a:link,h1.sidebar a:visited {
   text-decoration:none;
   color:#404040;
 }
 
-h1.sidebar a:hover,a:active {
+h1.sidebar a:hover,h1.sidebar a:active {
   text-decoration:none;
   color:#BBBBBB;
 }
 
-li.pages a:link,a:visited {
+li.pages a:link,li.pages a:visited {
   text-decoration:none;
   color:#404040;
 }
 
-li.pages a:hover,a:active {
+li.pages a:hover,li.pages a:active {
   text-decoration:none;
   color:#BBBBBB;
 }
