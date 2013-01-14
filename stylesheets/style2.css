@@ -51,8 +51,12 @@ section {
   float:left;
 }
 
-section p,h3,h4 {
+section h3,h4 {
   text-align:left;
+}
+
+section p {
+  text-align:justify;
 }
 
 section img { 
