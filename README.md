@@ -8,7 +8,6 @@ It used to be called "[William Writes][oldblog]." It was on Blogspot.
 [oldblog]: http://williamwrites.blogspot.com/ "William Writes"
 
 TODO:
-* Add home page link to sidebar list
 * Make archive page
 ** Post category: blog?
 * Make external archive page
