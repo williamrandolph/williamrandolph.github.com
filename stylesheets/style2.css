@@ -20,7 +20,7 @@ li {
 /* sidebar */
 
 .sidebar {
-  width:170px;
+  width:200px;
   float:right;
 }
 
@@ -32,7 +32,7 @@ h1.sidebar a {
 /* Section - for main page content */
 
 section {
-  width:650px;
+  width:620px;
   float:left;
 }
 
