@@ -24,9 +24,24 @@ li {
   float:right;
 }
 
-h1.sidebar a {
+h1.sidebar a:link,a:visited {
   text-decoration:none;
   color:#404040;
+}
+
+h1.sidebar a:hover,a:active {
+  text-decoration:none;
+  color:#BBBBBB;
+}
+
+li.pages a:link,a:visited {
+  text-decoration:none;
+  color:#404040;
+}
+
+li.pages a:hover,a:active {
+  text-decoration:none;
+  color:#BBBBBB;
 }
 
 /* Section - for main page content */
