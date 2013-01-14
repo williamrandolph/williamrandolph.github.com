@@ -13,5 +13,7 @@ TODO:
   * But they shouldn't show up on the main page.
   * Post category: articles?
 * Format sidebar links
+  * Maybe have normal and visible be the same, but have 'em light up on mousover
+  * a la [Janna's site](http://jannadyk.tumblr.com/)
 * Add post navigation mechanism for blog posts
   * This should only work within categories
