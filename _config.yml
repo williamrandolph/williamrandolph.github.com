@@ -13,7 +13,7 @@ future:      true
 lsi:         false
 pygments:    false
 markdown:    maruku
-permalink:   date
+permalink:   /:categories/:year/:month/:title.htm
 
 maruku:
   use_tex:    false
